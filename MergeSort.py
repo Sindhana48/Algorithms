@@ -32,7 +32,7 @@ def mergesort(arr):
             j += 1
             k += 1
 
-
+#Testing using sample array
 arr = [4,5,2,1,0,3,7,6]
 mergesort(arr)
 print("Sorted array is:", arr)
